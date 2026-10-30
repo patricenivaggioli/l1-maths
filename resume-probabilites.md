@@ -1,6 +1,6 @@
 # Fiche de cours — Probabilités (L1 informatique)
 
-Une **expérience aléatoire** a plusieurs résultats possibles. L’ensemble de ces résultats est l’**univers** $\Omega$ ; un **événement** est une partie de $\Omega$. Pour un dé équilibré, $\Omega=\{1,2,3,4,5,6\}$ et $A=\{2,4,6\}$ est l’événement « obtenir un nombre pair ».
+Une **expérience aléatoire** a plusieurs résultats possibles. L’ensemble de ces résultats est l’**univers** $\Omega$ ; un **événement** est une partie de $\Omega$. Pour un dé équilibré, $\Omega=\lbrace 1,2,3,4,5,6\rbrace$ et $A=\lbrace 2,4,6\rbrace$ est l’événement « obtenir un nombre pair ».
 
 ## Calculer la probabilité d’un événement
 
